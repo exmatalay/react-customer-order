@@ -1,0 +1,103 @@
+{
+  "customers": [
+    {
+      "name": "Murat",
+      "surname": "Atalay",
+      "phone1": "05358690690",
+      "phone2": "05358690690",
+      "address1": "Zümrütevler Mh. Filiz Sk. Mustafa By Apt. No:48 D:4",
+      "address2": "Maltepe",
+      "city": "İstanbul",
+      "state": "Türkiye",
+      "mail": "murat.atalay@hotmail.com.tr",
+      "notes": "Nota gerek duyulmamıştır",
+      "date": "2021-01-16",
+      "id": 1
+    },
+    {
+      "name": "Mehmet Enes",
+      "surname": "Atalay",
+      "phone1": "05358690690",
+      "phone2": "05358690690",
+      "address1": "Zümrütevler Mh. Filiz Sk. Mustafa By Apt. No:48 D:4",
+      "address2": "Maltepe",
+      "city": "İstanbul",
+      "state": "Türkiye",
+      "mail": "mehmetenes.atalay@gmail.com",
+      "notes": "Note Gerek Duyulmamıştır",
+      "date": "2021-01-16",
+      "id": 2
+    },
+    {
+      "name": "Kurkut Abdukbekir",
+      "surname": "Olataoğlugiller",
+      "phone1": "05358690690",
+      "phone2": "05358690690",
+      "address1": "Zümrütevler Mh. Filiz Sk. Mustafa By Apt. No:48 D:4",
+      "address2": "Maltepe",
+      "city": "İstanbul",
+      "state": "Türkiye",
+      "mail": "murat.atalay@hotmail.com.tr",
+      "notes": "Note gerek duyulmamıştır",
+      "date": "2021-01-16",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "customerid": "2",
+      "name": "Order1",
+      "price": "1250",
+      "date": "2021-01-16",
+      "notes": "Not Yok",
+      "type": "Order1 Type",
+      "duedate": "2021-01-30",
+      "id": 1
+    }
+  ],
+  "payments": [
+    {
+      "customerid": "2",
+      "orderid": 0,
+      "name": "Payment1",
+      "date": "2021-01-16",
+      "notes": "Not Yok",
+      "totalamount": "1250",
+      "paidamount": "700",
+      "remainingamount": "500",
+      "id": 1
+    }
+  ],
+  "rehearsals": [
+    {
+      "id": "rehearsals_uniq_1",
+      "sizeid": "orders_uniq_1",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_2",
+      "sizeid": "orders_uniq_1",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_1",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_2",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_3",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    }
+  ]
+}

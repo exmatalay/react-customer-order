@@ -1,0 +1,404 @@
+{
+  "customers": [
+    {
+      "id": "customers_uniq_1",
+      "name": "Murat",
+      "surname": "Atalay",
+      "phone1": "",
+      "phone2": "",
+      "phone3": "",
+      "adress1": "Maltepe/İstanbul",
+      "adress2": "Maltepe/İstanbul",
+      "adress3": "Maltepe/İstanbul",
+      "orders": [
+        {
+          "id": "orders_uniq_1",
+          "customerid": "customers_uniq_1",
+          "name": "Ölçü1",
+          "price": "",
+          "date": "",
+          "notes": "",
+          "fabric": "",
+          "type": "",
+          "duedate": "",
+          "payments": [
+            {
+              "id": "payments_uniq_1",
+              "name": "Ödeme1",
+              "orderid": "orders_uniq_1",
+              "date": "",
+              "notes": "",
+              "totalamount": "",
+              "paidamount": "",
+              "remaining amount": ""
+            },
+            {
+              "id": "payments_uniq_2",
+              "name": "Ödeme2",
+              "orderid": "orders_uniq_1",
+              "date": "",
+              "notes": "",
+              "totalamount": "",
+              "paidamount": "",
+              "remaining amount": ""
+            }
+          ],
+          "rehearsals": [
+            {
+              "id": "rehearsals_uniq_1",
+              "sizeid": "orders_uniq_1",
+              "date": "",
+              "notes": ""
+            },
+            {
+              "id": "rehearsals_uniq_2",
+              "sizeid": "orders_uniq_1",
+              "date": "",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "id": "orders_uniq_2",
+          "customerid": "customers_uniq_1",
+          "name": "Ölçü2",
+          "price": "",
+          "date": "",
+          "notes": "",
+          "fabric": "",
+          "type": "",
+          "duedate": "",
+          "payments": [
+            {
+              "id": "payments_uniq_1",
+              "name": "Ödeme1",
+              "orderid": "orders_uniq_2",
+              "date": "",
+              "notes": "",
+              "totalamount": "",
+              "paidamount": "",
+              "remaining amount": ""
+            },
+            {
+              "id": "payments_uniq_2",
+              "name": "Ödeme2",
+              "orderid": "orders_uniq_2",
+              "date": "",
+              "notes": "",
+              "totalamount": "",
+              "paidamount": "",
+              "remaining amount": ""
+            },
+            {
+              "id": "payments_uniq_3",
+              "name": "Ödeme3",
+              "orderid": "orders_uniq_2",
+              "date": "",
+              "notes": "",
+              "totalamount": "",
+              "paidamount": "",
+              "remaining amount": ""
+            }
+          ],
+          "rehearsals": [
+            {
+              "id": "rehearsals_uniq_1",
+              "sizeid": "orders_uniq_2",
+              "date": "",
+              "notes": ""
+            },
+            {
+              "id": "rehearsals_uniq_2",
+              "sizeid": "orders_uniq_2",
+              "date": "",
+              "notes": ""
+            },
+            {
+              "id": "rehearsals_uniq_3",
+              "sizeid": "orders_uniq_2",
+              "date": "",
+              "notes": ""
+            }
+          ]
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Mehmet Enes",
+      "surname": "Atalay",
+      "id": "vgcGm9u"
+    },
+    {
+      "name": "22",
+      "surname": "22",
+      "phone1": "5554443322",
+      "phone2": "5554443322",
+      "address1": "Maltepe",
+      "address2": "Maltepe",
+      "city": "Istanbul",
+      "state": "Maltepe",
+      "mail": "asd@asd.com.tr",
+      "notes": "Note",
+      "id": "XCoMxzU"
+    },
+    {
+      "name": "33",
+      "surname": "33",
+      "id": "HTxxxRF"
+    },
+    {
+      "name": "44",
+      "surname": "55",
+      "id": "aIw-gXo"
+    },
+    {
+      "name": "55",
+      "surname": "55",
+      "id": "EnyJjKI"
+    },
+    {
+      "name": "66",
+      "surname": "66",
+      "id": "p8bcfCL"
+    },
+    {
+      "name": "77",
+      "surname": "77",
+      "id": "tsp6stH"
+    },
+    {
+      "name": "88",
+      "surname": "88",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "id": "3JBoo_h"
+    },
+    {
+      "name": "99",
+      "surname": "99",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "11/01/2022",
+      "id": "_j5Rjvu"
+    },
+    {
+      "name": "110",
+      "surname": "110",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "2021-01-11T20:42:49.519Z",
+      "id": "hIrARw5"
+    },
+    {
+      "name": "120",
+      "surname": "120",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "12.01.2021",
+      "id": "AZvkF0u"
+    },
+    {
+      "name": "130",
+      "surname": "130",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "12.01.2021",
+      "id": "xQGBvi0"
+    },
+    {
+      "name": "140",
+      "surname": "140",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "12.01.2021",
+      "id": "wtkHxnF"
+    },
+    {
+      "name": "150",
+      "surname": "150",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "12/01/2021",
+      "id": "7EGv8zJ"
+    },
+    {
+      "name": "160",
+      "surname": "160",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "12/01/2021",
+      "id": "HOMIjrs"
+    },
+    {
+      "name": "170",
+      "surname": "170",
+      "phone1": "",
+      "phone2": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "mail": "",
+      "notes": "",
+      "date": "2021-01-12",
+      "id": "FMYBLha"
+    }
+  ],
+  "orders": [
+    {
+      "id": "orders_uniq_1",
+      "customerid": "customers_uniq_1",
+      "name": "Ölçü1",
+      "price": "",
+      "date": "",
+      "notes": "",
+      "fabric": "",
+      "type": "",
+      "duedate": ""
+    },
+    {
+      "id": "orders_uniq_2",
+      "customerid": "customers_uniq_1",
+      "name": "Ölçü2",
+      "price": "",
+      "date": "",
+      "notes": "",
+      "fabric": "",
+      "type": "",
+      "duedate": ""
+    }
+  ],
+  "payments": [
+    {
+      "id": "payments_uniq_1",
+      "name": "Ödeme1",
+      "orderid": "orders_uniq_1",
+      "date": "",
+      "notes": "",
+      "totalamount": "",
+      "paidamount": "",
+      "remaining amount": ""
+    },
+    {
+      "id": "payments_uniq_2",
+      "name": "Ödeme2",
+      "orderid": "orders_uniq_1",
+      "date": "",
+      "notes": "",
+      "totalamount": "",
+      "paidamount": "",
+      "remaining amount": ""
+    },
+    {
+      "id": "payments_uniq_1",
+      "name": "Ödeme1",
+      "orderid": "orders_uniq_2",
+      "date": "",
+      "notes": "",
+      "totalamount": "",
+      "paidamount": "",
+      "remaining amount": ""
+    },
+    {
+      "id": "payments_uniq_2",
+      "name": "Ödeme2",
+      "orderid": "orders_uniq_2",
+      "date": "",
+      "notes": "",
+      "totalamount": "",
+      "paidamount": "",
+      "remaining amount": ""
+    },
+    {
+      "id": "payments_uniq_3",
+      "name": "Ödeme2",
+      "orderid": "orders_uniq_2",
+      "date": "",
+      "notes": "",
+      "totalamount": "",
+      "paidamount": "",
+      "remaining amount": ""
+    }
+  ],
+  "rehearsals": [
+    {
+      "id": "rehearsals_uniq_1",
+      "sizeid": "orders_uniq_1",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_2",
+      "sizeid": "orders_uniq_1",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_1",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_2",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    },
+    {
+      "id": "rehearsals_uniq_3",
+      "sizeid": "orders_uniq_2",
+      "date": "",
+      "notes": ""
+    }
+  ]
+}
